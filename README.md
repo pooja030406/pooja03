@@ -149,36 +149,6 @@ Kotlin • Spring Boot • PostgreSQL • OpenAI API • Docker
 
 ---
 
-# 📊 GitHub Analytics
-
-<img src="https://streak-stats.demolab.com?user=pooja030406&theme=tokyonight&hide_border=true" />
-
-# 📈 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pooja030406&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-[![Pooja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pooja030406&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/pooja030406/pooja030406/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 # 🎯 Current Focus
 
 ```text
