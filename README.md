@@ -41,24 +41,30 @@ I enjoy building AI-powered applications, modern Android apps, and scalable back
 
 # 🚀 Tech Stack
 
-<div align="center">
-[![Skills](https://skillicons.dev/icons?i=java,kotlin,python,spring,mysql,postgres,redis,docker,kubernetes,aws,git&perline=8)](https://skillicons.dev)
-</div>
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,python" />
+</p>
 
-### Languages
-- Java · Kotlin · Python · SQL
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch" />
+</p>
 
-### Backend
-- Spring Boot · Spring Data JPA · Hibernate · REST APIs · JWT
+### 📱 Android Development
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,gradle" />
+</p>
 
-### Databases & Caching
-- PostgreSQL · MySQL · MongoDB · Redis
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,mongodb,redis" />
+</p>
 
-### DevOps & Tools
-- Docker · AWS · Gradle · Git · GitHub Actions
-
----
-
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma" />
+</p>
 # 🔥 Featured Projects
 
 ## 👗 TriSpark — AI-Powered Fashion Intelligence Platform
