@@ -151,31 +151,13 @@ Kotlin • Spring Boot • PostgreSQL • OpenAI API • Docker
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pooja030406&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pooja030406&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
+<img src="https://streak-stats.demolab.com?user=pooja030406&theme=tokyonight&hide_border=true" />
 
 # 📈 GitHub Streak
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=pooja030406&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pooja030406&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </div>
 
