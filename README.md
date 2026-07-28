@@ -160,17 +160,6 @@ Kotlin • Spring Boot • PostgreSQL • OpenAI API • Docker
 ✔ Open Source Contributions
 ```
 
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=pooja030406&color=blueviolet)
-
-</div>
-
----
-
-<div align="center">
 
 ### 💡 "Building intelligent software that creates real-world impact."
 
