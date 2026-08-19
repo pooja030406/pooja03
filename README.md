@@ -81,49 +81,6 @@ OpenAI API • FAISS • OpenCV • MediaPipe • Embeddings • Vector Search
 
 # 🔥 Featured Projects
 
-## 👗 TriSpark — AI-Powered Fashion Intelligence Platform
-
-> AI-powered fashion platform built for Myntra WeForShe 2025.
-
-**Tech Stack**
-
-FastAPI • React • OpenAI API • FAISS • OpenCV • MediaPipe • OpenWeather API • ImgBB
-
-**Highlights**
-
-- 🚀 Built 4 AI-powered fashion modules
-- 🔍 Semantic outfit recommendation using OpenAI Embeddings & FAISS
-- 👕 Virtual Try-On using OpenCV & MediaPipe
-- 🌤️ Personalized recommendations using weather & location
-- 🏆 Top 100 among 50,000+ teams in Myntra WeForShe 2025
-
-🔗 Repository
-
-https://github.com/pooja030406/Myntra_Team_Trispark
-
----
-
-## 🌦️ SkyNow — Android Weather Application
-
-> Modern Android application providing real-time weather forecasts.
-
-**Tech Stack**
-
-Kotlin • Retrofit • RecyclerView • Picasso • Weather.in API
-
-**Highlights**
-
-- ☀️ Real-time Weather API integration
-- 📅 Hourly & 7-Day Forecast
-- ⚡ Optimized RecyclerView performance
-- 📱 Modern Android UI
-
-🔗 Repository
-
-https://github.com/pooja030406/SkyNow
-
----
-
 ## 🤖 DevMateAI — AI Interview Coach
 
 > AI-powered Android application designed to help students prepare for technical interviews through AI mock interviews, resume analysis, DSA practice, and personalized feedback.
@@ -144,6 +101,27 @@ Kotlin • Jetpack Compose • MVVM • StateFlow • Retrofit • Firebase • 
 
 https://github.com/pooja030406/DevMateAI
 
+---
+
+## 👗 TriSpark — AI-Powered Fashion Intelligence Platform
+
+> AI-powered fashion platform built for Myntra WeForShe 2025.
+
+**Tech Stack**
+
+FastAPI • React • OpenAI API • FAISS • OpenCV • MediaPipe • OpenWeather API • ImgBB
+
+**Highlights**
+
+- 🚀 Built 4 AI-powered fashion modules
+- 🔍 Semantic outfit recommendation using OpenAI Embeddings & FAISS
+- 👕 Virtual Try-On using OpenCV & MediaPipe
+- 🌤️ Personalized recommendations using weather & location
+- 🏆 Top 100 among 50,000+ teams in Myntra WeForShe 2025
+
+🔗 Repository
+
+https://github.com/pooja030406/Myntra_Team_Trispark
 
 ---
 
