@@ -39,8 +39,9 @@ I enjoy building AI-powered applications, modern Android apps, and scalable back
 - 🤖 Interests: Artificial Intelligence, LLMs, Android Development, Backend Development & System Design
 - 🏆 Amazon ML Summer School 2026 Selected
 - 🥇 Top 100 at Myntra WeForShe Hackathon 2025 (50,000+ teams)
-- 💻 Solved **1000+ DSA Problems**
-- ⭐ LeetCode **1724** | CodeChef **2★**
+- 🥇 Semifinalist in Flipkart Grid 8.0 out of 165,000+ registrations
+- 💻 Solved **1100+ DSA Problems**
+- ⭐ LeetCode **1769** | CodeChef **2★** | Codeforces **Pupil**
 - 👨‍🏫 Mentored 25+ juniors in DSA & Android Development
 - 📫 Reach me: **ps2137800@gmail.com**
 
