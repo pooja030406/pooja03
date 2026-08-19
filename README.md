@@ -35,11 +35,11 @@
 
 I enjoy building AI-powered applications, modern Android apps, and scalable backend systems. I'm passionate about solving real-world problems using LLMs, REST APIs, and efficient software architecture while continuously improving my problem-solving skills through competitive programming.
 
-- 🎓 Pre-final Year B.Tech CSE Student at IIIT Bhagalpur
-- 🤖 Interests: Artificial Intelligence, LLMs, Android Development, Backend Development & System Design
+- 🎓 Final Year B.Tech CSE Student at IIIT Bhagalpur
+- 🤖 Interests: Android Development,Backend Development,Artificial Intelligence, LLMs & System Design
 - 🏆 Amazon ML Summer School 2026 Selected
 - 🥇 Top 100 at Myntra WeForShe Hackathon 2025 (50,000+ teams)
-- 🥇 Semifinalist in Flipkart Grid 8.0 out of 165,000+ registrations
+- 🥇 Semifinalist in Flipkart Grid 8.0 2026 out of 165,000+ registrations
 - 💻 Solved **1100+ DSA Problems**
 - ⭐ LeetCode **1769** | CodeChef **2★** | Codeforces **Pupil**
 - 👨‍🏫 Mentored 25+ juniors in DSA & Android Development
