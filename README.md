@@ -124,23 +124,26 @@ https://github.com/pooja030406/SkyNow
 
 ---
 
-## 🤖 AI Interview Coach *(Coming Soon)*
+## 🤖 DevMateAI — AI Interview Coach
 
-> AI-powered interview preparation platform with personalized mock interviews, resume-based questioning, and intelligent feedback.
+> AI-powered Android application designed to help students prepare for technical interviews through AI mock interviews, resume analysis, DSA practice, and personalized feedback.
 
 **Tech Stack**
 
-Kotlin • Spring Boot • PostgreSQL • OpenAI API • Docker
+Kotlin • Jetpack Compose • MVVM • StateFlow • Retrofit • Firebase • Cloud Firestore • Generative AI
 
-**Planned Features**
+**Highlights**
 
-- 🎯 Resume-based Interview Questions
-- 🤖 AI Interviewer
-- 📊 Performance Analytics
-- 💬 Instant AI Feedback
-- 🔐 Secure Authentication
+- 📄 Resume Analyzer with AI-powered insights
+- 🤖 AI-Powered Mock Interviews
+- 💬 Ask DevMate AI for instant assistance
+- 📊 Interview History & Performance Tracking
+- 🔐 Firebase Authentication & User Data Management
 
-🚧 Currently Building
+🔗 Repository
+
+https://github.com/pooja030406/DevMateAI
+
 
 ---
 
