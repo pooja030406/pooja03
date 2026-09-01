@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=00C4CC&center=true&vCenter=true&width=1300&lines=🏆+Amazon+ML+Summer+School+2026+Selected;🥇+Top+100+at+Myntra+WeForShe+2025;💻+1000%2B+DSA+Problems+Solved;🤖+AI+Engineer;📱+Android+Developer;⚙️+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&color=00C4CC&center=true&vCenter=true&width=1300&lines=🏆+Amazon+ML+Summer+School+2026+Selected;🥇+Top+100+at+Myntra+WeForShe+2025;💻+1100%2B+DSA+Problems+Solved;🤖+AI+Engineer;📱+Android+Developer;⚙️+Backend+Developer)](https://git.io/typing-svg)
 
 </div>
 
